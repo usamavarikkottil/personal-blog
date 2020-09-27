@@ -1,0 +1,11 @@
+{{ $img := imageConfig (add "/static" (.Destination | safeURL)) }}
+
+
+
+
+<img
+  src="{{ .Destination | safeURL }}"
+  alt="{{ .Text }}"
+  loading="lazy"
+  width="100%"
+/>
