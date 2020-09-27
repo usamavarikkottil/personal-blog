@@ -2,6 +2,7 @@
 title: "How I created my first Hugo Website, A Beginner's Guide"
 date: 2020-09-17T20:28:21+05:30
 draft: false
+description: "Guide to build a website in Hugo for complete beginners"
 tags : [
     "markdown",
     "css",
