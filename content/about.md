@@ -21,21 +21,23 @@ I'm Usama Varikkottil, a 20 y/o fellow Full Stack Web Developer from Kerala, Ind
 
 #### I love to `code`, `hack`, and explore new `ideas`. 
 
-I have developed web apps in **MERN** Stack(MongoDB, ExpressJS, ReactJS, NodeJS). A few of them are shown in [projects](/projects) page.
+I have developed web apps in **MERN** Stack(MongoDB, ExpressJS, ReactJS, NodeJS). A few of them are shown on the [projects](/projects) page.
 
 In my spare time, I love finding bugs in web applications, and some companies pay me for that.
 
 {{< figure class="grid two" >}}
+<div style="text-align: center">
   <img height="300" src="/images/about/3.jpg" alt="Usama Varikkottil Working on Laptop" >
-
+</div>
 {{< /figure >}}
 
 ---
 
- Along with **web dev** and **security**, I have a keen interest in **entrepreneurship**. I started taking my first steps into this journey just a few weeks before.
+ Along with **web dev** and **security**, I have a keen interest in **entrepreneurship**. I started taking my first steps into this journey just a few weeks before. I hope will get better at It in the coming years.
 {{< figure class="grid two" >}}
+<div style="text-align: center">
   <img height="300" src="/images/about/5.jpg" alt="Usama Varikkottil Working on Laptop" >
-
+</div>
 {{< /figure >}}
 
 ---
