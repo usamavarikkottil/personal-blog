@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects | Usama Varikkottil Personal Projects"
 date: 2020-10-10T17:32:43+05:30
 draft: false
 ---
