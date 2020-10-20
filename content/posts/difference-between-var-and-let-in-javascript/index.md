@@ -75,8 +75,10 @@ The last line of the above code will throw an error since `var` variables are on
 
 #### Notes:
 
+* `var` is there in javascript from the beginning, but `let` and `const` are introduced recently in es6.
 * `var` is function-scoped, while `let` and `const` are block-scoped.
 * Global variables declared using the `var` keyword would automatically get attached to the browser `window` object. Whereas `let` prevents it.
+* Variable defined with `var` gets hoisted at the top of it's function. Variable defined using `let` and `const` doesn't gets hoisted.
 * We can redeclare `var` variables as many times as we want, while `let` cannot be redeclared.
     ```javascript
     var humanOne = "usama";
