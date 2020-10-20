@@ -1,8 +1,8 @@
 ---
-title: "Difference Between Var and Let in Javascript"
+title: "Difference Between var, let and const in Javascript"
 date: 2020-10-11T12:27:07+05:30
 draft: false
-description: "Beginner's friendly guide, The difference between var and let keywords in javascript, Interview guide for beginners"
+description: "Beginner's friendly guide, The difference between var, let and const keywords in javascript, Interview guide for beginners"
 author: "Usama Varikkottil"
 tags : [
     "javascript",
