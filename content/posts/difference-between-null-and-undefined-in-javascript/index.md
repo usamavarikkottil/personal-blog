@@ -10,4 +10,4 @@ draft: false
  And we can assign `null` into a variable ourselves. 
 
 * `typeof(undefined)` returns "undefined", but `typeof(null)` returns "object".
-* `null !== undefined` but `null == undefined`.
+* `null !== undefined`, but `null == undefined`.
